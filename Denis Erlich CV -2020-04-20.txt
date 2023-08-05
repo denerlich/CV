@@ -1,0 +1,188 @@
+Denis Erlich, B.Sc., PMP, CanBIM CP.
+BIM Systems Manager
+
+Education
+Technion, Israel Insitute of Technology, Haifa, Israel, 1996-2000
+ 
+Years in Practice
+With HATCH: 2yrs
+Other firms: 18 yrs
+
+Experience Summary
+Denis is a BIM Systems Manager with 10+ years of experience in Building Information modelling and 15+ years in 
+Construction Industry – BSc of Technion- Israeli Institute of Technology. Experienced in ICI and Civil 
+Infrastructure Projects. Promoter of use of data in construction
+
+Selected Experience
+Transportation:
+
+RER3, Metrolinx, Toronto, ON (Pursuit Phase); 2020-2021
+Responsible for setup, configuration, and implementation of BIM for Design Joint Venture for Pursuit Phase of 
+RER P3 Program with Metrolinx.
+Providing and developing specifications, design coordination support and technical assistance and advice on 
+various BIM and CADD topics.
+Support for various BIM - related corporate initiatives.
+
+
+Park Lawn, Metrolinx, Toronto, ON; 2021-2022
+
+BIM Manager, Responsible for Setup of BIM360, Revit Templates, Coordination Sessions, Workflows
+
+EHTH, Metrolinx, Toronto, ON; 2021-2022
+
+BIM Manager, Responsible for Setup of BIM360, Revit Templates, Coordination Sessions, Workflows
+
+Bloor Yonge Capacity Enhancement Project,  TTC, Toronto, ON; 2019- 2020
+BIM Manager, Responsible for Setup of BIM360, Revit Templates, Coordination Sessions, Workflows
+
+Gordie Howe International Bridge, Windsor, ON; 2019-2020
+
+BIM Manager, Responsible on behalf of Canadian Team for Multidisciplinary Coordination, Setup of BIM360, 
+Revit Templates, Coordination Sessions, Workflows
+
+
+Scarborough Subway Station, TTC, Toronto, ON; 2018-2019
+
+BIM Manager, Responsible for Setup of BIM360, Revit Templates, Coordination Sessions, Workflows
+
+Crosslinx Transit Solutions (CTS), Toronto; 2015 – 2018 
+BIM Manager, CTS Constructors
+
+?	Responsible for setup and implementation of BIM program for the ECLRT (Eglinton Crosstown Light Rail 
+Transit) (6.5 billion RTI project) during design and construction.
+?	Providing and developing specifications for BIM, CADD and Surveying, Document Control and As-Built 
+programs, BIM /CADD Software training program, in accordance with BIM Execution Plan.
+?	Managing 6 Segment BIM teams with total reporting personnel of 12 people and dozens of BIM users across 
+the project.
+
+VIVANext H3, D1, H2VMC, Rapid Transit Projects  2011 - 2012;
+BIM Deployment Manager, 
+
+?	Responsible for deloyment and training of Civil BIM Coordinators for Construction Management JV ( Kiewitt- 
+EllisDon) ; follow up and impementation of the BIM Execution Plan , notably, implementation of the Utilities 
+Relocation coordination, Quantity Takeoff and Construction Schedule Simulations.
+
+
+Training and Certifications
+
+?	Bachelor of Science, Technion, Israel Insitute of Technology, Haifa, Israel, 1996-2000
+?	The Register of Engineers and Architects, General Civil Section, Tel Aviv, Israel, # 00116107
+?	CKPM 213 –Management of Projects in the AEC, Ryerson University, 2012
+?	Project Management Professional (PMP)  License # 1730719
+?	CANBIM Certified Practitioner
+?	Level 2 Secret clearance certificate
+
+
+Software Skills
+BIM Management Tools: 
+Bentley ProjectWise. Autodesk BIM360 Docs/ACC, Autodesk Navisworks Manage, Autodesk Dynamo for Revit and 
+Civil3D. 
+Design tools: Autodesk 
+Revit, Autodesk AutoCAD, Autodesk Civil3D, Civil3D Subassembly Composer, Bentley MicroStation, Bentley 
+AECOSim, Bentley Inroads, Bentley Descartes; Sketchup; Autodesk Inventor, Autodesk Infraworks, 
+GlobalMapper.
+Point cloud Authoring and editing tools: 
+Recap, Faro Scene, Cloud Compare, PointFuse;
+
+Other specialized BIM software: 
+Solibri Model Checker, SimpleBIM, Tekla BIMSight, Synchro4D, Clarity.
+
+Employment History
+AECOM Canada, Buildings + Places; 2018- 2020
+BIM Manager, B+P
+?	Responsible for setup, implementation, and support of BIM programs on Government-funded design 
+projects during various stages, clients, including Toronto Transit Commission, Metrolinx, CNL, P3 
+Partnerships.
+?	Providing and developing specifications, design coordination support and technical assistance and advice 
+on various BIM and CADD topics.
+?	Developing BIM and CADD Software training programs; Coordinating training sessions for the Design Teams 
+during project delivery.
+?	Interfaced with Toronto Transit Commission Project Management Team on Scarborough Subway Extention 
+Project.
+
+Crosslinx Transit Solutions (CTS), Toronto; 2015 – 2018 
+BIM Manager, CTS Constructors
+?	Responsible for setup and implementation of BIM program for the ECLRT (Eglinton Crosstown Light Rail 
+Transit) (6.5 billion RTI project) during design and construction.
+?	Providing and developing specifications for BIM, CADD and Surveying, Document Control and As-Built 
+programs, BIM /CADD Software training program, in accordance with BIM Execution Plan.
+?	Managing 6 Segment BIM teams with total reporting personnel of 12 people and dozens of BIM users across 
+the project.
+?	Interfaced with Constructor , Engineering and Maintenance and Rehabilitation Joint Venture Stakeholders. 
+
+Ellis Don Inc., Toronto; 2010 – 2015  
+BIM Deployment Manager
+?	Set up and configured multiple projects
+?	Responsible for the set-up of BIM field operations, including execution plans, BIM manuals, contract 
+addenda. Led the team in setup and integration of the VDC process with trade agreements, document 
+control, design coordination and change management.
+?	Hired to EllisDon in March 2010, and prepared documentation for BIM deployments;
+?	Later, I deployed, trained and functionally managed BIM aspect of the following projects:
+?	Krimbel Discovery Centre, Toronto, ON (April 2010- July 2011);
+?	Surrey Memorial Hospital, BC (Jul 2011- Nov 2011);
+?	VIVANext H3 Rapid Transit Project (Jul 2011 - Nov 2011);
+?	Sick Kids Hospital (Jan 2011 - Nov 2011);
+?	Saskatoon Police HQ (Aug 2011 -Apr 2012);
+?	Calgary International Airport - YYC (May 2011- Jul 2012);
+?	Ryerson University - CLS Campus (Jul 2012- Feb 2013);
+?	Goldring Centre of Performing Arts UofT (Oct 2012 - Feb 2013);
+?	Jasper Lodge Renovation Survey ( Nov 2012-May 2013 );
+?	My role included for writing Execution Plans, helping with BIM specification writing, budgeting, leading in-
+house modelling teams to support Field BIM, training of new-coming BIM coordinators to Interference 
+management, document control, handling models, modelling techniques, understanding contract specifics, 
+and various interoperability issues. Large portion of that role included for developing interpersonal skills and 
+leadership and mentor skills.
+?	Re-wrote template BIM Execution manual of EllisDon and prepared a BIM amendment to Contract's 
+Appendix A of General Conditions in cooperation with Christian Wiechmann of Commercial  Director of 
+Services & Project Controls at EllisDon.
+?	At the same time, as BIM expanded it's application beyond clash detection, I was developing and 
+operationalizing scanning services for Ellisdon’s
+?	Geomatics Group, profit-and-loss group engaged in laser scanning of existing conditions for major 
+renovation projects (Yorkdale Mall, Markham Mall Expansion, YYZ T3 Renovation etc.).
+
+PCL Constructors, Toronto; 2009 – 2010 
+BIM/VDC Coordinator
+?	Emerged to the Niagara Health Care System Centre project in early Design Development Stage as BIM 
+coordinator.
+?	Maintained and updated Building Envelope Model of the project, generated BIM RFIs, analyzed and 
+presented interferences for weekly Envelope Design Meetings with architects and precast panel contractor.
+?	Developed procedures for Virtual Construction Workflow focused on 2D consultant input.
+?	Utilized Envelope Model for structural interference studies, AB/VR analysis
+
+PCL Constructors, Toronto; 2008 – 2009 
+Project Coordinator, Bell LightBox Project
+?	Coordination work on Bell Lightbox ICI Project as part of experienced PCL team, performing under CM 
+contract.
+?	Wrote Tender Packages, initiated Tender Process with Subcontractors, Processed Submittals and RFI& 
+Maintained Document Control System, Supervised modelling of A+S
+?	Model for MEP Interference; later emerged as BIM Coordinator for the project, maintained and updated 
+model, analyzed and presented interferences for weekly clash detection meetings with subcontractors.
+
+BAZIS International Inc., Toronto; 2005 – 2008 
+Project Coordinator
+?	Design coordination, code compliance review and value engineering for residential construction in 
+Kazakhstan.
+?	Assistance with Construction planning and scheduling for Hi-Rise Residential Crystal Blue Project in 
+Downtown Toronto, ON.
+
+
+
+
+Languages
+English
+Hebrew
+Russian
+
+
+
+ 
+
+
+
+www.hatch.com 	Last First | 1
+ 
+
+Page 1 of 1
+
+
+Denis Erlich CV .Doc	 	 © Hatch 2006/03 ?
